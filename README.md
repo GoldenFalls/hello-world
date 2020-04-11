@@ -1,3 +1,2 @@
-# hello-world
-Testing
-I'm a beginner with code, doing this to see if I can contribute to AO3
+# Skin Repository
+A place to stick skins for AO3.
