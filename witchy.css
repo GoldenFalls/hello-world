@@ -1,0 +1,10 @@
+/* fixes the first and last page link hover states shifting */
+.cc-nav a.cc-first:hover, .cc-nav a.cc-last:hover {
+	background-position: -84.5px 0px;
+}
+
+/* prevents the header link from overlapping the page navigation links */
+.cc-nav {
+	position: relative;
+	z-index: 1;
+}
